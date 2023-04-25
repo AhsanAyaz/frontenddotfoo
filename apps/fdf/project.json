@@ -2,7 +2,7 @@
   "name": "fdf",
   "$schema": "../../node_modules/nx/schemas/project-schema.json",
   "projectType": "application",
-  "prefix": "frontenddotfoo",
+  "prefix": "fdf",
   "sourceRoot": "apps/fdf/src",
   "tags": [],
   "targets": {
